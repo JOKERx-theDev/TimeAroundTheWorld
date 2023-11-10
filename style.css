@@ -15,15 +15,15 @@ body{
 /*ADD FONT EXTERNALLY*/
 @font-face {
     font-family: myFontMedium;
-    src: url(../Satoshi_Complete/Fonts/OTF/Satoshi-Medium.otf);
+    src: url(./Satoshi_Complete/Fonts/OTF/Satoshi-Medium.otf);
 }
 @font-face {
     font-family: myFontBold;
-    src: url(../Satoshi_Complete/Fonts/OTF/Satoshi-Bold.otf);
+    src: url(./Satoshi_Complete/Fonts/OTF/Satoshi-Bold.otf);
 }
 @font-face {
     font-family: myFontRegular;
-    src: url(../Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf);
+    src: url(./Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf);
 }
 .container{
     width: 300px;
